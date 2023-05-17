@@ -50,32 +50,3 @@
 
 
 
-// let tipoVehiculo = prompt("Ingrese tipo de vehiculo (carro/moto/bici):").toUpperCase;
-// // let tiempo = prompt("Ingresa cantidad total de minutos");
-// // let valorMinutoCarro = 95;
-// // let valorMinutoMoto = 49;
-// // let valorMinutoBici = 10;
-// // let resultado = valorMinutoCarro * tiempo;
-// // let tiempo = "";
-// let tiempo = ""
-// let salida = ""
-// let valorPorMinuto = ""
-// let resultado = tiempo * valor;
-
-// switch (tipoVehiculo) {
-//     case 1:
-//         tiempo = "";
-//         valor = 95;
-//         resultado
-
-//         break;
-
-
-
-
-//     default:
-
-//         alert(tipoVehiculo + resultado);
-
-// }
-
